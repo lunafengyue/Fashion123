@@ -1,0 +1,31 @@
+p {
+    font-size: 18px;
+    color: brown;
+}
+.box1 img{float:left;}
+li, p, h3 {text-indent: 3em;}
+.box3 img{float:center;
+          margin: 1em;}
+.box4 img{float:center;
+          margin: 1em;}
+.box2 img{float:center;
+          margin: 1em;}
+.box5 img{float: center;
+          margin: 1em;}
+.box6 img{float:left;}
+.box7 img{float:left;
+          margin:1em;}
+.box8 img{float:left;
+          margin:1em}
+.box9 img{float:left;
+          margin:1em}
+.box10 img{float:left;
+           margin:1em}
+.box11 img{float: center;
+           margin:1em}
+.box12 img{float:center;
+           margin:1em}
+li {display:inline;}/* display li as inline element */
+.email{
+    display:none;
+}
